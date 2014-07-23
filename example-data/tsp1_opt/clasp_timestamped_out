@@ -1,0 +1,59 @@
+1403794834.743190	clasp version 3.0.4
+1403794834.743206	Reading from stdin
+1403794834.754813	Solving...
+1403794834.757051	Answer: 1
+1403794834.757055	cycle(39,15) cycle(38,3) cycle(37,27) cycle(36,38) cycle(35,17) cycle(34,22) cycle(33,9) cycle(32,8) cycle(31,20) cycle(30,7) cycle(29,19) cycle(28,39) cycle(27,24) cycle(26,28) cycle(25,37) cycle(24,31) cycle(23,29) cycle(22,10) cycle(21,23) cycle(20,21) cycle(19,33) cycle(18,26) cycle(17,18) cycle(16,5) cycle(15,32) cycle(14,11) cycle(13,16) cycle(12,13) cycle(11,1) cycle(10,35) cycle(9,6) cycle(8,14) cycle(7,36) cycle(6,12) cycle(5,30) cycle(4,2) cycle(3,34) cycle(2,25) cycle(1,4)
+1403794834.757070	Optimization: 103
+1403794834.757318	Answer: 2
+1403794834.757322	cycle(39,15) cycle(38,3) cycle(37,18) cycle(36,38) cycle(35,27) cycle(34,22) cycle(33,9) cycle(32,8) cycle(31,20) cycle(30,7) cycle(29,19) cycle(28,39) cycle(27,24) cycle(26,31) cycle(25,37) cycle(24,17) cycle(23,29) cycle(22,10) cycle(21,1) cycle(20,21) cycle(19,28) cycle(18,26) cycle(17,23) cycle(16,5) cycle(15,32) cycle(14,11) cycle(13,16) cycle(12,13) cycle(11,25) cycle(10,35) cycle(9,6) cycle(8,14) cycle(7,36) cycle(6,12) cycle(5,30) cycle(4,2) cycle(3,34) cycle(2,33) cycle(1,4)
+1403794834.757337	Optimization: 98
+1403794834.757474	Answer: 3
+1403794834.757478	cycle(39,15) cycle(38,3) cycle(37,8) cycle(36,38) cycle(35,27) cycle(34,22) cycle(33,9) cycle(32,25) cycle(31,20) cycle(30,7) cycle(29,19) cycle(28,39) cycle(27,24) cycle(26,28) cycle(25,37) cycle(24,31) cycle(23,29) cycle(22,10) cycle(21,23) cycle(20,21) cycle(19,17) cycle(18,26) cycle(17,18) cycle(16,5) cycle(15,32) cycle(14,11) cycle(13,16) cycle(12,13) cycle(11,1) cycle(10,35) cycle(9,6) cycle(8,14) cycle(7,36) cycle(6,12) cycle(5,30) cycle(4,2) cycle(3,34) cycle(2,33) cycle(1,4)
+1403794834.757493	Optimization: 95
+1403794834.758036	Answer: 4
+1403794834.758040	cycle(39,15) cycle(38,3) cycle(37,8) cycle(36,38) cycle(35,27) cycle(34,22) cycle(33,9) cycle(32,25) cycle(31,20) cycle(30,7) cycle(29,19) cycle(28,39) cycle(27,24) cycle(26,31) cycle(25,37) cycle(24,17) cycle(23,29) cycle(22,10) cycle(21,23) cycle(20,21) cycle(19,28) cycle(18,26) cycle(17,18) cycle(16,5) cycle(15,32) cycle(14,11) cycle(13,16) cycle(12,13) cycle(11,1) cycle(10,35) cycle(9,6) cycle(8,14) cycle(7,36) cycle(6,12) cycle(5,30) cycle(4,2) cycle(3,34) cycle(2,33) cycle(1,4)
+1403794834.758055	Optimization: 81
+1403794834.789060	Answer: 5
+1403794834.789062	cycle(39,15) cycle(38,3) cycle(37,27) cycle(36,38) cycle(35,11) cycle(34,22) cycle(33,9) cycle(32,25) cycle(31,19) cycle(30,5) cycle(29,10) cycle(28,20) cycle(27,1) cycle(26,31) cycle(25,37) cycle(24,17) cycle(23,24) cycle(22,30) cycle(21,23) cycle(20,21) cycle(19,28) cycle(18,29) cycle(17,18) cycle(16,7) cycle(15,32) cycle(14,6) cycle(13,16) cycle(12,13) cycle(11,8) cycle(10,35) cycle(9,39) cycle(8,14) cycle(7,36) cycle(6,2) cycle(5,26) cycle(4,12) cycle(3,34) cycle(2,33) cycle(1,4)
+1403794834.789068	Optimization: 80
+1403794835.365754	Answer: 6
+1403794835.365758	cycle(39,15) cycle(38,3) cycle(37,27) cycle(36,38) cycle(35,17) cycle(34,22) cycle(33,9) cycle(32,25) cycle(31,29) cycle(30,10) cycle(29,19) cycle(28,39) cycle(27,1) cycle(26,31) cycle(25,37) cycle(24,21) cycle(23,24) cycle(22,5) cycle(21,20) cycle(20,18) cycle(19,28) cycle(18,26) cycle(17,23) cycle(16,12) cycle(15,32) cycle(14,6) cycle(13,16) cycle(12,36) cycle(11,8) cycle(10,35) cycle(9,11) cycle(8,14) cycle(7,13) cycle(6,7) cycle(5,30) cycle(4,2) cycle(3,34) cycle(2,33) cycle(1,4)
+1403794835.365765	Optimization: 79
+1403794836.175077	Answer: 7
+1403794836.175082	cycle(39,15) cycle(38,3) cycle(37,27) cycle(36,38) cycle(35,11) cycle(34,22) cycle(33,9) cycle(32,8) cycle(31,29) cycle(30,5) cycle(29,19) cycle(28,20) cycle(27,24) cycle(26,31) cycle(25,37) cycle(24,17) cycle(23,30) cycle(22,10) cycle(21,23) cycle(20,21) cycle(19,28) cycle(18,26) cycle(17,18) cycle(16,12) cycle(15,32) cycle(14,2) cycle(13,16) cycle(12,36) cycle(11,1) cycle(10,35) cycle(9,6) cycle(8,25) cycle(7,13) cycle(6,4) cycle(5,7) cycle(4,39) cycle(3,34) cycle(2,33) cycle(1,14)
+1403794836.175088	Optimization: 73
+1403794836.188430	Answer: 8
+1403794836.188436	cycle(39,15) cycle(38,3) cycle(37,27) cycle(36,38) cycle(35,11) cycle(34,22) cycle(33,9) cycle(32,25) cycle(31,29) cycle(30,5) cycle(29,19) cycle(28,20) cycle(27,24) cycle(26,31) cycle(25,37) cycle(24,17) cycle(23,30) cycle(22,10) cycle(21,23) cycle(20,21) cycle(19,28) cycle(18,26) cycle(17,18) cycle(16,12) cycle(15,32) cycle(14,6) cycle(13,16) cycle(12,36) cycle(11,1) cycle(10,35) cycle(9,39) cycle(8,14) cycle(7,13) cycle(6,2) cycle(5,7) cycle(4,8) cycle(3,34) cycle(2,33) cycle(1,4)
+1403794836.188443	Optimization: 72
+1403794836.453301	Answer: 9
+1403794836.453306	cycle(39,15) cycle(38,3) cycle(37,27) cycle(36,38) cycle(35,18) cycle(34,22) cycle(33,9) cycle(32,25) cycle(31,29) cycle(30,5) cycle(29,19) cycle(28,20) cycle(27,1) cycle(26,31) cycle(25,37) cycle(24,17) cycle(23,24) cycle(22,30) cycle(21,23) cycle(20,21) cycle(19,28) cycle(18,26) cycle(17,39) cycle(16,10) cycle(15,32) cycle(14,11) cycle(13,16) cycle(12,36) cycle(11,4) cycle(10,35) cycle(9,6) cycle(8,14) cycle(7,13) cycle(6,12) cycle(5,7) cycle(4,2) cycle(3,34) cycle(2,33) cycle(1,8)
+1403794836.453313	Optimization: 71
+1403794836.537645	Answer: 10
+1403794836.537648	cycle(39,15) cycle(38,3) cycle(37,27) cycle(36,38) cycle(35,18) cycle(34,22) cycle(33,11) cycle(32,25) cycle(31,29) cycle(30,10) cycle(29,19) cycle(28,20) cycle(27,1) cycle(26,31) cycle(25,37) cycle(24,17) cycle(23,24) cycle(22,5) cycle(21,23) cycle(20,21) cycle(19,28) cycle(18,26) cycle(17,39) cycle(16,7) cycle(15,32) cycle(14,6) cycle(13,16) cycle(12,13) cycle(11,8) cycle(10,35) cycle(9,33) cycle(8,14) cycle(7,36) cycle(6,12) cycle(5,30) cycle(4,2) cycle(3,34) cycle(2,9) cycle(1,4)
+1403794836.537654	Optimization: 68
+1403794836.934304	Answer: 11
+1403794836.934316	cycle(39,15) cycle(38,3) cycle(37,27) cycle(36,38) cycle(35,18) cycle(34,22) cycle(33,9) cycle(32,25) cycle(31,29) cycle(30,7) cycle(29,19) cycle(28,20) cycle(27,1) cycle(26,31) cycle(25,37) cycle(24,17) cycle(23,24) cycle(22,5) cycle(21,23) cycle(20,21) cycle(19,28) cycle(18,26) cycle(17,39) cycle(16,10) cycle(15,32) cycle(14,11) cycle(13,16) cycle(12,36) cycle(11,4) cycle(10,35) cycle(9,6) cycle(8,14) cycle(7,13) cycle(6,12) cycle(5,30) cycle(4,2) cycle(3,34) cycle(2,33) cycle(1,8)
+1403794836.934323	Optimization: 66
+1403794836.945168	Answer: 12
+1403794836.945170	cycle(39,15) cycle(38,3) cycle(37,27) cycle(36,38) cycle(35,18) cycle(34,22) cycle(33,9) cycle(32,25) cycle(31,29) cycle(30,10) cycle(29,19) cycle(28,20) cycle(27,1) cycle(26,31) cycle(25,37) cycle(24,17) cycle(23,24) cycle(22,5) cycle(21,23) cycle(20,21) cycle(19,28) cycle(18,26) cycle(17,39) cycle(16,12) cycle(15,32) cycle(14,11) cycle(13,16) cycle(12,36) cycle(11,4) cycle(10,35) cycle(9,6) cycle(8,14) cycle(7,13) cycle(6,7) cycle(5,30) cycle(4,2) cycle(3,34) cycle(2,33) cycle(1,8)
+1403794836.945177	Optimization: 64
+1403794844.23321	Answer: 13
+1403794844.23333	cycle(39,15) cycle(38,3) cycle(37,27) cycle(36,38) cycle(35,17) cycle(34,22) cycle(33,9) cycle(32,8) cycle(31,18) cycle(30,10) cycle(29,19) cycle(28,39) cycle(27,1) cycle(26,31) cycle(25,37) cycle(24,21) cycle(23,24) cycle(22,5) cycle(21,20) cycle(20,26) cycle(19,28) cycle(18,29) cycle(17,23) cycle(16,7) cycle(15,32) cycle(14,11) cycle(13,16) cycle(12,13) cycle(11,4) cycle(10,35) cycle(9,6) cycle(8,25) cycle(7,36) cycle(6,12) cycle(5,30) cycle(4,2) cycle(3,34) cycle(2,33) cycle(1,14)
+1403794844.23340	Optimization: 61
+1403794855.873194	Answer: 14
+1403794855.873200	cycle(39,15) cycle(38,3) cycle(37,27) cycle(36,38) cycle(35,17) cycle(34,22) cycle(33,9) cycle(32,25) cycle(31,18) cycle(30,10) cycle(29,19) cycle(28,39) cycle(27,1) cycle(26,31) cycle(25,37) cycle(24,21) cycle(23,24) cycle(22,5) cycle(21,20) cycle(20,26) cycle(19,28) cycle(18,29) cycle(17,23) cycle(16,7) cycle(15,32) cycle(14,11) cycle(13,16) cycle(12,13) cycle(11,8) cycle(10,35) cycle(9,6) cycle(8,4) cycle(7,36) cycle(6,12) cycle(5,30) cycle(4,2) cycle(3,34) cycle(2,33) cycle(1,14)
+1403794855.873206	Optimization: 60
+1403794861.539884	Answer: 15
+1403794861.539887	cycle(39,15) cycle(38,3) cycle(37,27) cycle(36,38) cycle(35,18) cycle(34,22) cycle(33,9) cycle(32,25) cycle(31,29) cycle(30,10) cycle(29,19) cycle(28,20) cycle(27,1) cycle(26,31) cycle(25,37) cycle(24,17) cycle(23,24) cycle(22,5) cycle(21,23) cycle(20,21) cycle(19,28) cycle(18,26) cycle(17,39) cycle(16,7) cycle(15,32) cycle(14,11) cycle(13,16) cycle(12,13) cycle(11,8) cycle(10,35) cycle(9,6) cycle(8,4) cycle(7,36) cycle(6,12) cycle(5,30) cycle(4,2) cycle(3,34) cycle(2,33) cycle(1,14)
+1403794861.539900	Optimization: 55
+1403794862.401072	Answer: 16
+1403794862.401076	cycle(39,15) cycle(38,3) cycle(37,27) cycle(36,38) cycle(35,17) cycle(34,22) cycle(33,39) cycle(32,25) cycle(31,29) cycle(30,10) cycle(29,19) cycle(28,20) cycle(27,1) cycle(26,31) cycle(25,37) cycle(24,9) cycle(23,24) cycle(22,5) cycle(21,23) cycle(20,21) cycle(19,28) cycle(18,26) cycle(17,18) cycle(16,7) cycle(15,32) cycle(14,11) cycle(13,16) cycle(12,13) cycle(11,8) cycle(10,35) cycle(9,6) cycle(8,4) cycle(7,36) cycle(6,2) cycle(5,30) cycle(4,12) cycle(3,34) cycle(2,33) cycle(1,14)
+1403794862.401083	Optimization: 52
+1403794879.563092	OPTIMUM FOUND
+1403794879.563097	
+1403794879.563097	Models       : 16    
+1403794879.563097	  Optimum    : yes
+1403794879.563098	Optimization : 52
+1403794879.563098	Calls        : 1
+1403794879.563099	Time         : 44.827s (Solving: 44.81s 1st Model: 0.00s Unsat: 17.16s)
+1403794879.563100	CPU Time     : 44.800s

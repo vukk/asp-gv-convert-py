@@ -1,0 +1,107 @@
+1404234772.610918	clasp version 3.0.4
+1404234772.610951	Reading from instances/econ0/econ0-edges.sm
+1404234772.674099	Solving...
+1404234772.677851	Answer: 1
+1404234772.677857	
+1404234772.677857	Optimization: 2973048
+1404234772.678696	Answer: 2
+1404234772.678698	edge(6,8) edge(3,8) edge(3,6)
+1404234772.678699	Optimization: 2966260
+1404234772.678970	Answer: 3
+1404234772.678972	edge(3,6) edge(1,8)
+1404234772.678972	Optimization: 2962488
+1404234772.679230	Answer: 4
+1404234772.679232	edge(3,6)
+1404234772.679232	Optimization: 2961964
+1404234772.679872	Answer: 5
+1404234772.679874	edge(7,8) edge(3,8) edge(3,7)
+1404234772.679875	Optimization: 2958555
+1404234772.680682	Answer: 6
+1404234772.680684	edge(6,8) edge(3,7)
+1404234772.680685	Optimization: 2953408
+1404234772.681223	Answer: 7
+1404234772.681225	edge(6,7) edge(3,7) edge(3,6) edge(1,8)
+1404234772.681226	Optimization: 2937769
+1404234772.681354	Answer: 8
+1404234772.681356	edge(6,7) edge(3,7) edge(3,6) edge(2,8)
+1404234772.681357	Optimization: 2890226
+1404234772.684050	Answer: 9
+1404234772.684052	edge(6,7) edge(3,8) edge(2,8) edge(2,3) edge(1,7) edge(1,6)
+1404234772.684053	Optimization: 2885696
+1404234772.717316	Answer: 10
+1404234772.717322	edge(7,8) edge(6,8) edge(6,7) edge(5,8) edge(5,6) edge(4,7) edge(3,6) edge(2,6) edge(2,5) edge(2,3) edge(1,3)
+1404234772.717323	Optimization: 2879807
+1404234772.717461	Answer: 11
+1404234772.717463	edge(7,8) edge(6,8) edge(6,7) edge(5,8) edge(5,6) edge(4,8) edge(4,7) edge(3,6) edge(2,6) edge(2,5) edge(2,3) edge(1,3)
+1404234772.717465	Optimization: 2859855
+1404234772.722035	Answer: 12
+1404234772.722038	edge(7,8) edge(6,8) edge(6,7) edge(5,8) edge(5,6) edge(3,6) edge(3,4) edge(2,6) edge(2,5) edge(2,4) edge(2,3) edge(1,7)
+1404234772.722039	Optimization: 2797729
+1404234772.746110	Answer: 13
+1404234772.746115	edge(7,8) edge(6,8) edge(6,7) edge(5,6) edge(4,5) edge(3,7) edge(3,6) edge(2,6) edge(2,5) edge(2,4) edge(2,3) edge(1,8) edge(1,7)
+1404234772.746117	Optimization: 2790155
+1404234772.762533	Answer: 14
+1404234772.762539	edge(7,8) edge(6,7) edge(5,6) edge(4,7) edge(3,7) edge(3,6) edge(3,5) edge(2,7) edge(2,4) edge(1,7) edge(1,6) edge(1,5) edge(1,4) edge(1,3)
+1404234772.762541	Optimization: 2746964
+1404234772.762641	Answer: 15
+1404234772.762643	edge(7,8) edge(6,7) edge(5,6) edge(4,7) edge(3,7) edge(3,6) edge(3,5) edge(2,4) edge(1,7) edge(1,6) edge(1,5) edge(1,4) edge(1,3)
+1404234772.762645	Optimization: 2744580
+1404234772.762813	Answer: 16
+1404234772.762815	edge(7,8) edge(6,7) edge(5,6) edge(4,8) edge(4,7) edge(3,7) edge(3,6) edge(3,5) edge(2,8) edge(2,7) edge(2,4) edge(1,7) edge(1,6) edge(1,5) edge(1,4) edge(1,3)
+1404234772.762818	Optimization: 2707290
+1404234772.763010	Answer: 17
+1404234772.763012	edge(7,8) edge(6,7) edge(5,6) edge(4,8) edge(4,7) edge(3,7) edge(3,6) edge(3,5) edge(2,8) edge(2,7) edge(2,4) edge(1,7) edge(1,6) edge(1,4) edge(1,3)
+1404234772.763014	Optimization: 2706800
+1404234775.220311	Answer: 18
+1404234775.220319	edge(6,7) edge(5,8) edge(5,6) edge(4,8) edge(4,7) edge(4,6) edge(4,5) edge(3,7) edge(2,8) edge(2,5) edge(2,4) edge(1,7) edge(1,6) edge(1,4) edge(1,3)
+1404234775.220322	Optimization: 2702956
+1404234778.390618	Answer: 19
+1404234778.390623	edge(6,7) edge(5,7) edge(5,6) edge(4,8) edge(3,7) edge(3,6) edge(3,5) edge(2,8) edge(2,4) edge(1,7) edge(1,6) edge(1,4) edge(1,3)
+1404234778.390625	Optimization: 2702636
+1404234781.308622	Answer: 20
+1404234781.308627	edge(6,7) edge(5,6) edge(4,8) edge(4,7) edge(4,6) edge(3,6) edge(3,5) edge(3,4) edge(2,8) edge(2,6) edge(2,5) edge(2,4) edge(2,3) edge(1,7) edge(1,6) edge(1,4) edge(1,3)
+1404234781.308630	Optimization: 2701078
+1404234781.310893	Answer: 21
+1404234781.310896	edge(6,7) edge(5,6) edge(4,7) edge(4,6) edge(3,6) edge(3,5) edge(3,4) edge(2,8) edge(2,6) edge(2,4) edge(1,7) edge(1,6) edge(1,4) edge(1,3)
+1404234781.310898	Optimization: 2700475
+1404234781.310999	Answer: 22
+1404234781.311001	edge(6,7) edge(5,6) edge(4,8) edge(4,7) edge(4,6) edge(3,6) edge(3,5) edge(3,4) edge(2,8) edge(2,6) edge(2,4) edge(1,7) edge(1,6) edge(1,4) edge(1,3)
+1404234781.311003	Optimization: 2700107
+1404234781.317601	Answer: 23
+1404234781.317615	edge(6,7) edge(5,6) edge(4,8) edge(4,7) edge(4,6) edge(3,6) edge(3,5) edge(2,8) edge(2,6) edge(2,4) edge(1,7) edge(1,6) edge(1,5) edge(1,4) edge(1,3)
+1404234781.317618	Optimization: 2694525
+1404234781.318188	Answer: 24
+1404234781.318190	edge(6,7) edge(5,6) edge(4,8) edge(4,7) edge(4,6) edge(3,6) edge(2,8) edge(2,6) edge(2,4) edge(1,7) edge(1,6) edge(1,5) edge(1,4) edge(1,3)
+1404234781.318192	Optimization: 2693560
+1404234782.770714	Answer: 25
+1404234782.770776	edge(6,7) edge(5,6) edge(3,5) edge(2,8) edge(2,6) edge(2,5) edge(2,4) edge(1,7) edge(1,6) edge(1,5) edge(1,4) edge(1,3) edge(1,2)
+1404234782.770780	Optimization: 2691214
+1404234786.515403	Answer: 26
+1404234786.515408	edge(5,6) edge(4,8) edge(4,5) edge(3,7) edge(3,6) edge(2,8) edge(2,5) edge(2,4) edge(1,7) edge(1,6) edge(1,5) edge(1,4) edge(1,3)
+1404234786.515410	Optimization: 2689761
+1404234786.549269	Answer: 27
+1404234786.549274	edge(5,6) edge(4,8) edge(3,7) edge(3,6) edge(2,8) edge(2,5) edge(2,4) edge(1,7) edge(1,6) edge(1,5) edge(1,4) edge(1,3) edge(1,2)
+1404234786.549276	Optimization: 2689711
+1404234789.822846	Answer: 28
+1404234789.822851	edge(6,7) edge(5,7) edge(5,6) edge(3,7) edge(3,5) edge(2,8) edge(2,7) edge(2,5) edge(2,4) edge(2,3) edge(1,7) edge(1,4) edge(1,3) edge(1,2)
+1404234789.822853	Optimization: 2689640
+1404234792.754057	Answer: 29
+1404234792.754063	edge(6,7) edge(5,6) edge(4,8) edge(4,7) edge(4,6) edge(3,6) edge(2,8) edge(2,6) edge(2,5) edge(2,4) edge(1,7) edge(1,6) edge(1,5) edge(1,4) edge(1,3) edge(1,2)
+1404234792.754065	Optimization: 2686815
+1404234809.206206	Answer: 30
+1404234809.206212	edge(6,7) edge(5,6) edge(4,8) edge(4,7) edge(4,6) edge(3,5) edge(2,8) edge(2,6) edge(2,5) edge(2,4) edge(1,7) edge(1,6) edge(1,5) edge(1,4) edge(1,3) edge(1,2)
+1404234809.206214	Optimization: 2685051
+1404234874.182218	Answer: 31
+1404234874.182223	edge(6,7) edge(5,6) edge(4,8) edge(4,7) edge(4,6) edge(4,5) edge(3,5) edge(2,8) edge(2,5) edge(2,4) edge(1,7) edge(1,6) edge(1,5) edge(1,4) edge(1,3)
+1404234874.182226	Optimization: 2683991
+1404234975.123170	Answer: 32
+1404234975.123175	edge(6,7) edge(5,7) edge(5,6) edge(4,8) edge(4,7) edge(4,5) edge(3,5) edge(2,8) edge(2,5) edge(2,4) edge(1,7) edge(1,5) edge(1,4) edge(1,3)
+1404234975.123178	Optimization: 2682597
+1404235183.364849	OPTIMUM FOUND
+1404235183.364855	
+1404235183.364856	Models       : 32    
+1404235183.364856	  Optimum    : yes
+1404235183.364857	Optimization : 2682597
+1404235183.364857	Calls        : 1
+1404235183.364857	Time         : 410.757s (Solving: 410.69s 1st Model: 0.00s Unsat: 208.24s)
+1404235183.364859	CPU Time     : 410.380s

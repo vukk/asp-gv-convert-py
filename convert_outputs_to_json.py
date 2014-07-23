@@ -1,12 +1,8 @@
-asp-gv-convert-py
-=================
+#!/usr/bin/env python
+"""Convert clasp & gringo outputs to ASP-GV visualization script JSON files.
 
-A python script to convert clasp output to JSON for the asp-gv-js visualization script.
+This script can be used to convert clasp (monotonically) timestamped output, and optionally gringo text output, to JSON files which are accepted by the ASP-GV javascript package.
 
-Options
-=======
-
-```
 Usage:
   ./convert_outputs_to_json.py --edge-pred=<predicate> --clasp-out=<filename>
         [(--cost-pred=<predicate> --gringo-out=<filename>) --directed]
@@ -44,38 +40,47 @@ Options:
                                               output is not prepended with
                                               a timestamp. Time delta will
                                               be 4.0 seconds.
-```
+Examples:
+*  ./convert_outputs_to_json.py -e cycle -c results/tsp-1.out \\
+*                               -o cost  -g ground-text/tsp-1.out -i \\
+*                               -d json/tsp-1/data.json \\
+*                               -t json/tsp-1/time.json \\
+*                               -s json/tsp-1/soln.json
+*
+*  ./convert_outputs_to_json.py -e edge -c results/econ0/out \\
+*                               -d json/econ0/data.json \\
+*                               -t json/econ0/time.json \\
+*                               -s json/econ0/soln.json
+*
+"""
 
-Examples
-========
+from __future__ import absolute_import
+from __future__ import print_function
+from __future__ import division
 
-Converting simple clasp output, not optimizing, not timestamped and no gringo
------------------------------------------------------------------------------
+from docopt import docopt
 
-Just the clasp output. Not optimizing, not timestamped.
-This will create an undirected complete graph for visualization, set timedeltas to 4.0sec, and optimum value of each solution to 1.
+from aspgvconvert import convert
 
-```
-./convert_outputs_to_json.py -e cycle -c example-data/tsp0_50ans/clasp_notopt_notts_out -d data.json -t time.json -s soln.json --not-opt --not-timestamped
-```
+# Parse arguments.
+args = docopt(__doc__, version='0.1')
 
-Converting clasp optimization output with timestamps, no gringo
----------------------------------------------------------------
+# Run conversion
+if convert.files_to_json(
+        args['--edge-pred'],
+        args['--clasp-out'],
+        not args['--not-timestamped'],
+        not args['--not-opt'],
+        args['--cost-pred'],
+        args['--gringo-out'],
+        args['--directed'],
+        args['--json-data'],
+        args['--json-time'],
+        args['--json-soln']
+        ):
+    print('Success!')
+else:
+    print('Conversion failed :(')
 
-This will create an undirected complete graph for visualization.
-Timedeltas will be fetched from the timestamps in clasp output.
-
-```
-./convert_outputs_to_json.py -e edge -c example-data/econ0_opt/clasp_timestamped_out -d data.json -t time.json -s soln.json
-```
-
-Converting clasp optimization output with timestamps and gringo text output
----------------------------------------------------------------------------
-
-This will fetch the graph from gringo's textual output.
-Timedeltas will be fetched from the timestamps in clasp output.
-
-```
-./convert_outputs_to_json.py -e cycle -c example-data/tsp1_opt/clasp_timestamped_out -o cost -g example-data/tsp1_opt/gringo_text_out -i -d data.json -t time.json -s soln.json
-```
+# EOF
 
