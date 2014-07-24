@@ -1,3 +1,8 @@
+# Outputs of example commands
+data.json
+time.json
+soln.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

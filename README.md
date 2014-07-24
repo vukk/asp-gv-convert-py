@@ -1,10 +1,22 @@
 asp-gv-convert-py
 =================
 
-A python script to convert clasp output to JSON for the asp-gv-js visualization script.
+A python script to convert clasp output to JSON for the asp-gv javascript visualization script.
+
+Why?
+----
+
+So that we can visualize ASP encodings of graph problems where the answer sets are sets of edges.
+See [asp-gv visualization script](https://github.com/vukk/asp-gv).
+
+Timestamps
+----------
+
+Timestamps can be produced with [tcat-monotonic](https://github.com/vukk/tcat-monotonic).
+Just pipe it ``cat grounded_opt.asp | clasp | tcat-monotonic``.
 
 Options
-=======
+-------
 
 ```
 Usage:
@@ -47,10 +59,9 @@ Options:
 ```
 
 Examples
-========
+--------
 
-Converting simple clasp output, not optimizing, not timestamped and no gringo
------------------------------------------------------------------------------
+### Converting simple clasp output, not optimizing, not timestamped and no gringo ###
 
 Just the clasp output. Not optimizing, not timestamped.
 This will create an undirected complete graph for visualization, set timedeltas to 4.0sec, and optimum value of each solution to 1.
@@ -59,8 +70,7 @@ This will create an undirected complete graph for visualization, set timedeltas 
 ./convert_outputs_to_json.py -e cycle -c example-data/tsp0_50ans/clasp_notopt_notts_out -d data.json -t time.json -s soln.json --not-opt --not-timestamped
 ```
 
-Converting clasp optimization output with timestamps, no gringo
----------------------------------------------------------------
+### Converting clasp optimization output with timestamps, no gringo ###
 
 This will create an undirected complete graph for visualization.
 Timedeltas will be fetched from the timestamps in clasp output.
@@ -69,8 +79,7 @@ Timedeltas will be fetched from the timestamps in clasp output.
 ./convert_outputs_to_json.py -e edge -c example-data/econ0_opt/clasp_timestamped_out -d data.json -t time.json -s soln.json
 ```
 
-Converting clasp optimization output with timestamps and gringo text output
----------------------------------------------------------------------------
+### Converting clasp optimization output with timestamps and gringo text output ###
 
 This will fetch the graph from gringo's textual output.
 Timedeltas will be fetched from the timestamps in clasp output.
