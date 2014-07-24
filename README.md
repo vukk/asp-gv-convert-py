@@ -15,6 +15,16 @@ Timestamps
 Timestamps can be produced with [tcat-monotonic](https://github.com/vukk/tcat-monotonic).
 Just pipe it ``cat grounded_opt.asp | clasp | tcat-monotonic``.
 
+Requirements
+------------
+
+- networkx
+
+Use [virtualenv](http://virtualenv.readthedocs.org/en/latest/virtualenv.html) to install the requirements.
+When inside the virtualenv, this can be done with ``pip install < requirements.txt``.
+
+If something doesn't work, see requirements.txt for the specific versions required.
+
 Options
 -------
 
